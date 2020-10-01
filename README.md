@@ -1,2 +1,2 @@
 # my-websites
-my static websites
+my Amazing Static Websites
